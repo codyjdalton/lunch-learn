@@ -6,6 +6,8 @@ The purpose of this application was to demonstrate a semi-RESTful full stack Jav
 
 There may still be bugs/spaghetti code left over after the initial pass, there are no plans to address these in the future as this was purely for demonstration.
 
+[View the example application](https://gl-js.herokuapp.com/)
+
 ## Prerequisites
 
 ### Node JS
@@ -15,9 +17,8 @@ You'll need to have node JS installed to run this application locally.
 
 ### Mocha JS (optional)
 In order to run automated unit tests, you will need to have Mocha installed globally.
-`npm install -g mocha`
 
-[Install the latest version](https://nodejs.org/en/download/)
+`npm install -g mocha`
 
 ## Getting Started
 
